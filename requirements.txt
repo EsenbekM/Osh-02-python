@@ -1,0 +1,2 @@
+python-decouple==3.6
+termcolor==2.0.1
